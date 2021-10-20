@@ -1,0 +1,129 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.top-container {
+
+    background-color: #EAF6F6;
+    position: relative;
+    padding: 100px 0 0 0;
+    margin-bottom: 80px;
+}
+
+h1 {
+    color: #66BFBF;
+    margin: 50px auto 0 auto;
+    position: relative;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    line-height: 2;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.profile p {
+    width: 20%;
+    margin: 0 auto 0 auto;
+    margin-bottom: 90px;
+    line-height: 2;
+}
+
+
+.pro {
+    text-decoration: underline;
+}
+
+.footer-link {
+    color: #11999E;
+    text-decoration: none;
+    margin: 10px 50px 60px 50px;
+    position: relative;
+    font-weight: bolder;
+
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.skill-row {
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+
+.programming-img {
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+
+.relax-img {
+    width: 20%;
+    float: right;
+    margin-right: 30px;
+}
+
+.btn {
+    margin-top: 2rem;
+    border-radius: 8px;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    padding: 10px;
+    width: 120px;
+    background-image: linear-gradient(#90cccc, #31B8B8);
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+
+hr {
+    border-style: none;
+    border-color: rgb(163, 162, 162);
+    border-top-style: dotted;
+    width: 4.5%;
+    border-width: 8px;
+}
+
+.skills {
+    margin-top: 90px;
+}
+
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 3%;
+}
+
+.bottom-container p {
+    margin: 2rem;
+    color: #EAF6F6;
+    font-size: smaller;
+}
+
+.contact-me {
+    margin-bottom: 60px;
+}
